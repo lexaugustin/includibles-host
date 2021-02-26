@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/includibles-host/static/css/main.9e70bf2a.chunk.css",
+    "main.js": "/includibles-host/static/js/main.443a5a23.chunk.js",
+    "main.js.map": "/includibles-host/static/js/main.443a5a23.chunk.js.map",
+    "runtime-main.js": "/includibles-host/static/js/runtime-main.6bcc3dfd.js",
+    "runtime-main.js.map": "/includibles-host/static/js/runtime-main.6bcc3dfd.js.map",
+    "static/js/2.b2986ac6.chunk.js": "/includibles-host/static/js/2.b2986ac6.chunk.js",
+    "static/js/2.b2986ac6.chunk.js.map": "/includibles-host/static/js/2.b2986ac6.chunk.js.map",
+    "index.html": "/includibles-host/index.html",
+    "precache-manifest.d0ce5147025b16e647b2d992b07c113e.js": "/includibles-host/precache-manifest.d0ce5147025b16e647b2d992b07c113e.js",
+    "service-worker.js": "/includibles-host/service-worker.js",
+    "static/css/main.9e70bf2a.chunk.css.map": "/includibles-host/static/css/main.9e70bf2a.chunk.css.map",
+    "static/js/2.b2986ac6.chunk.js.LICENSE.txt": "/includibles-host/static/js/2.b2986ac6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/includibles-host/static/media/right-arrow.daa3eb89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bcc3dfd.js",
+    "static/js/2.b2986ac6.chunk.js",
+    "static/css/main.9e70bf2a.chunk.css",
+    "static/js/main.443a5a23.chunk.js"
+  ]
+}
